@@ -13,7 +13,7 @@ import scipy
 from scipy.stats import norm
 from operator import itemgetter
 import re
-import cPickle as pickle
+import pickle
 
 #
 # Functions
